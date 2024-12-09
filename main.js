@@ -17,7 +17,7 @@ camera.position.z = 2;
 
 //Background
 
-const path = 'public/background/';
+const path = './background/';
 const format = '.jpg';
 const urls = [
 				path + 'px' + format, path + 'nx' + format,
